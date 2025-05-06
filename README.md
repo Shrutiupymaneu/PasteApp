@@ -29,5 +29,5 @@ npm create vite@latest
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/pasteapp.git <br/>
-cd pasteapp <br/>
+git clone https://github.com/your-username/pasteapp.git 
+cd pasteapp 
