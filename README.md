@@ -24,6 +24,7 @@
 ---
 
 ## 📦 Installation<br/>
+```bash
 npm create vite@latest
 
 ### 1. Clone the repository
